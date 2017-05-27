@@ -1,0 +1,14 @@
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\bin\Debug\Cameron8Ball.exe.config
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\bin\Debug\Cameron8Ball.exe
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\bin\Debug\Cameron8Ball.pdb
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\Cameron8Ball.csprojResolveAssemblyReference.cache
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\MainWindow.g.cs
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\App.g.cs
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\Cameron8Ball_MarkupCompile.cache
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\Cameron8Ball_MarkupCompile.lref
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\MainWindow.baml
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\Cameron8Ball.g.resources
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\Cameron8Ball.Properties.Resources.resources
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\Cameron8Ball.csproj.GenerateResource.Cache
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\Cameron8Ball.exe
+c:\users\camer\onedrive\documents\visual studio 2017\Projects\Cameron8Ball\Cameron8Ball\obj\Debug\Cameron8Ball.pdb
