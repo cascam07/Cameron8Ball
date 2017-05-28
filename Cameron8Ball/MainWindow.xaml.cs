@@ -54,7 +54,7 @@ namespace Cameron8Ball
             if (CamPic.Visibility == Visibility.Visible) CamPic.Visibility = Visibility.Hidden;
             if (TextAnswer.Visibility == Visibility.Hidden) TextAnswer.Visibility = Visibility.Visible;
 
-            int random = rand.Next(1, 17);
+            int random = rand.Next(1, 26);
 
             switch (random)
             {
@@ -121,6 +121,18 @@ namespace Cameron8Ball
                     break;
                 case 21:
                     Answer = "THAT IS SAD";
+                    break;
+                case 22:
+                    Answer = "IF THE IMPACT FACTOR IS LESS THAN 30, WHY BOTHER?";
+                    break;
+                case 23:
+                    Answer = "GC IS THE ONLY WAY";
+                    break;
+                case 24:
+                    Answer = "FIEHN ALREADY DID IT";
+                    break;
+                case 25:
+                    Answer = "UGHHHH!";
                     break;
 
             }
